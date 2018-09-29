@@ -8,5 +8,4 @@ Dependencies :
 Refer to the respective folders for further information on games.
 ## Gallery
 ![Pong](https://github.com/adityapande-1995/Games-golang/blob/master/animations/pong.gif "Pong")
-
 ![Snake](https://github.com/adityapande-1995/Games-golang/blob/master/animations/snake.gif "Snake")
