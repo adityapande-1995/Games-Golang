@@ -7,4 +7,4 @@ Dependencies :
 
 Refer to the respective folders for further information on games.
 
-![alt text](https://github.com/adityapande-1995/Games-golang/tree/master/animations/snake1.gif "Snake")
+![Snake](https://github.com/adityapande-1995/Games-golang/blob/master/animations/snake1.gif "Snake")
