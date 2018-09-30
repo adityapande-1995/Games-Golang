@@ -8,7 +8,7 @@ This module implements simple neural network models from scratch in golang. Curr
 
 ## Usage
 For simple MLP model, run:
-```
+```go
 package main
 
 import (
